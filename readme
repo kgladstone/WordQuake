@@ -1,0 +1,17 @@
+About WordQuake
+How it Works
+WordQuake runs on WordNet, a database developed at Princeton University that maps the relationships between tens of thousands of words in the English language. Our program accesses this database to analyze your text on the fly and hands you back a unique blend of chaos and creativity. 
+
+"Get your concepts rank, then you can distort them as you please."
+-- Mark Twain via WordQuake
+
+Pro Tip
+1) Try leaving words uncapitalized, because there's a better chance that our algorithm will pick them up. 2) Don't be boring! Sentences full of nouns and long-winded descriptions do best here!
+Chrome Extension
+Bored by what you see on a webpage? Want to spice things up? Or surprise your friends? Introducing the WordQuake Chrome Extension, an application that transforms entire webpages before your very eyes. Create new meanings from online news articles, editorials, classic literature...even your best friend's Facebook posts... in a single click. The Chrome Extension utilizes the same algorithm and database as the demo on the homepage, but its ability to WordQuake other sites makes it even more powerful. Find it on the Chrome store here.
+Team
+Alan Du
+Keith Gladstone
+Derrick Xin
+Special Thanks To
+HackPrinceton Spring 2015 and our mentors Swift@MLH, Penny@Linode, and Philip@Yodle for all of their web development wisdom. 
